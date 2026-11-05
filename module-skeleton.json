@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-revenue-intelligence-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-revenue-intelligence",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-revenue-intelligence-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/revenue-intelligence.md",
+  "presentationPlan": "projects/crm/nuxt/revenue-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
